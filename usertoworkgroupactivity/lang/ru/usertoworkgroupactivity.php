@@ -1,0 +1,15 @@
+<?php if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();
+$MESS['USER_TO_WORKGROUP_ACTIVITY_ERROR_TEXT'] = 'Ошибка';
+$MESS['USER_TO_WORKGROUP_ACTIVITY_WORKGROUP_ID'] = 'Рабочая группа';
+$MESS['USER_TO_WORKGROUP_ACTIVITY_CHAT_ID'] = 'Чат';
+$MESS['USER_TO_WORKGROUP_ACTIVITY_WORKGROUP_USER_ROLE'] = 'Роль пользователя в группе';
+$MESS['USER_TO_WORKGROUP_ACTIVITY_USER_ID'] = 'ID пользователя';
+$MESS['USER_TO_WORKGROUP_ACTIVITY_USER_ID_EMPTY'] = 'Не удалось определить ID пользователя (сотрудника)';
+$MESS['USER_TO_WORKGROUP_ACTIVITY_WORKGROUP_ID_EMPTY'] = 'Не удалось определить ID рабочей группы';
+$MESS['USER_TO_WORKGROUP_ACTIVITY_MODULE_NOT_INCLUDED'] = 'Не удалось подключить модуль #MODULE_ID#';
+$MESS['USER_TO_WORKGROUP_ACTIVITY_ROLE_MODERATOR'] = 'модератор';
+$MESS['USER_TO_WORKGROUP_ACTIVITY_ROLE_USER'] = 'пользователь';
+$MESS['USER_TO_WORKGROUP_ACTIVITY_ROLE_BAN'] = 'черный список';
+$MESS['USER_TO_WORKGROUP_ACTIVITY_ROLE_REQUEST'] = 'запрос на вступление';
+$MESS['USER_TO_WORKGROUP_USER_EXIST_WORKGROUP'] = 'Пользователь уже добавлен в групу #GROUP# с ролью #ROLE#';
+$MESS['USER_TO_WORKGROUP_ACTIVITY_CHAT_MESS'] = "#FULL_NAME# вступил(а) в группу";
